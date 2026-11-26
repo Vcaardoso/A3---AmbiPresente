@@ -11,7 +11,12 @@ por meio de desafios diários, checklist, jogos educativos e um assistente com I
 ## Links
 - **MVP (no-code):** https://ambi-presente.lovable.app
 - **Protótipo:** não houve etapa separada de protótipo; o grupo partiu direto
-  para o MVP. As telas estão em `assets/images/`.
+  para o MVP. As telas estão logo abaixo.
+  ## Telas do MVP
+
+![Tela inicial](assets/images/Inicio.JPEG)
+![Checklist diário](assets/images/Meucheck.JPEG)
+![Assistente Árbio](assets/images/Assistente.JPEG)
 
 ## Como acessar os artefatos
 - `docs/requirements/`: requisitos funcionais, não funcionais e priorização MoSCoW
