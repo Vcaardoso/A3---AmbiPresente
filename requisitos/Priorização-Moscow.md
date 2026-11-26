@@ -19,3 +19,4 @@ Projeto **AmbiPresente**: priorização das funcionalidades do Product Backlog.
 | **Could have** | Link de compartilhar o app |
 | **Won't have** (não vai ter agora) | Ranques dos usuários |
 
+O detalhamento de cada item (descrição e justificativa) está em repositorios/planejamento/product-backlog.md.
