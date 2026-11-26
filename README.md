@@ -19,9 +19,9 @@ por meio de desafios diários, checklist, jogos educativos e um assistente com I
 ![Assistente Árbio](assets/images/Assistente.JPEG)
 
 ## Como acessar os artefatos
-- `docs/requirements/`: requisitos funcionais, não funcionais e priorização MoSCoW
-- `docs/architecture/`: arquitetura geral e diagrama de componentes
-- `docs/planning/`: cronograma dos checkpoints e product backlog
+- `docs/requisitos/`: requisitos funcionais, não funcionais e priorização MoSCoW
+- `docs/Arquitetura/`: arquitetura geral e diagrama de componentes
+- `docs/Planejamento/`: cronograma dos checkpoints e product backlog
 - `assets/images/`: capturas de tela do MVP
 
 ## Status do projeto
