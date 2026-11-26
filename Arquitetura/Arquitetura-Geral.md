@@ -2,7 +2,7 @@
 
 Projeto **AmbiPresente**: arquitetura detalhada (3º checkpoint).
 
-![Diagrama de componentes](diagrama-componentes.png)
+![Diagrama de componentes](Diagrama-Componentes.JPEG)
 
 ## Visão geral
 
