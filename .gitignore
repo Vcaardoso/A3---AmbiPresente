@@ -1,0 +1,27 @@
+# Dependências
+node_modules/
+
+# Variáveis de ambiente e chaves (nunca subir)
+.env
+.env.*
+!.env.example
+
+# Builds e cache
+dist/
+build/
+.output/
+.vinxi/
+.cache/
+.vite/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
