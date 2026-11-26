@@ -1,34 +1,29 @@
-# Nessa pasta estará presente a engenharia de requisitos e os requisitos priorizados usáveis necessários e escolhidos para o projeto
-## Requisitos Priorizados
-*HUB DE JOGOS EDUCATIVOS*
-* A cada atualização terá um módulo a mais, contendo jogos interativos diferentes 
-* PAPEL DA IA: Gerar jogos de forma instantânea com base em pesquisas.
-  
-*JOGOS E QUIZZES*
-* A cada atualização será incluído novos mini games e testes
-* PAPEL DA IA: Gerar jogos de forma instantânea com base em pesquisas.
+# Requisitos Funcionais
 
-*SISTEMA DE PONTUAÇÃO/RECOMPENSAS*
-* Conseguir patrocinadores, e com isso usar o sistema de pontuação em resgate de cupons de desconto para produtos
-* PAPEL DA IA : Enviar links dos sites dos patrocinadores Enviar links para onde pode ser usado cupom 
+Projeto **AmbiPresente**: levantamento organizado pela pirâmide de requisitos (2º checkpoint).
 
-## Engenharia de requisitos
-*Base da pirâmide/Requisitos de Sistema:*
+## Requisitos de sistema (base da pirâmide)
 
-  *Requisitos Funcionais:*
- * Conteúdo baseado na idade do usuário.
- * Sistema de pontuação.
- * Gerar relatório do impacto que cada ação tem. 
+- **RF01:** O conteúdo apresentado deve ser baseado na idade do usuário.
+- **RF02:** O sistema deve ter um sistema de pontuação.
+- **RF03:** O sistema deve gerar um relatório do impacto que cada ação tem.
 
-*Requisitos Não Funcionais*
-* Gerar conteúdo 100% seguro
-* Fácil usabilidade
-* Comunicação fácil
+## Requisitos do usuário (meio da pirâmide)
 
-*Meio da pirâmide/Requisitos do usuário:*
-* Gerar relatório do interesse dos usuários no app
-* Relatório de quantos usuários estão realmente realizando as ações
+- **RF04:** O usuário deve poder marcar as ações do checklist diário e receber pontos ao concluí-las.
+- **RF05:** O usuário deve poder enviar uma foto para comprovar a realização de uma ação sustentável, com checagem feita pela IA.
+## Regras de negócio (topo da pirâmide)
 
-*Topo da pirâmide/Regra de negócio:*
-* Conseguir patrocinadores
-* Aplicativo 100% gratuito
+- **RN01:** Conseguir patrocinadores.
+- **RN02:** O aplicativo deve ser 100% gratuito.
+
+## Funcionalidades do MVP
+
+- Criação de conta e login por e-mail
+- Perfil de usuário com progresso individual
+- Hub de jogos educativos (quiz, missão reciclagem, detetives do meio ambiente, guardiões da água, memória ecológica)
+- Desafios ambientais e checklist diário
+- Assistente de IA (Árbio) para tirar dúvidas sobre sustentabilidade
+- Comprovação de ações por fotos
+- Pontuação e conquistas
+- Cálculo de pegada de carbono
